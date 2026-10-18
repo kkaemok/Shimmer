@@ -1,0 +1,22 @@
+{
+  "shimmer.config.title": "Shimmer Settings",
+  "shimmer.config.enabled": "HDR panoramas",
+  "shimmer.config.exposure": "Exposure (EV)",
+  "shimmer.config.exposure.tooltip": "Manual exposure, −20 to +20 EV. +1 doubles brightness; −1 halves it.",
+  "shimmer.config.exposure.decrease": "Decrease exposure by 0.5 EV",
+  "shimmer.config.exposure.increase": "Increase exposure by 0.5 EV",
+  "shimmer.config.toneMapping": "Tone mapping",
+  "shimmer.config.curve.ACES": "ACES",
+  "shimmer.config.curve.REINHARD": "Reinhard",
+  "shimmer.config.overlay": "Vanilla panorama overlay",
+  "shimmer.config.overlay.tooltip": "Keep vanilla's panorama overlay. Menu blur is controlled by Minecraft's settings.",
+  "shimmer.config.colorSpace": "Untagged color space",
+  "shimmer.config.colorSpace.LINEAR_SRGB": "Linear sRGB",
+  "shimmer.config.colorSpace.RADIANCE": "Radiance",
+  "shimmer.config.colorSpace.tooltip": "Color space for HDR files without PRIMARIES. Tagged files use their own primaries.",
+  "shimmer.config.reset": "Reset Defaults",
+  "shimmer.config.save": "Save & Apply",
+  "shimmer.config.applyHint": "Save applies changes with a resource reload.",
+  "shimmer.config.invalidExposure": "Enter a finite exposure between −20 and +20 EV.",
+  "shimmer.config.saveError": "Could not save settings. See the game log."
+}

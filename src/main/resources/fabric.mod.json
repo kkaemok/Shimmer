@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "shimmer",
+  "version": "${version}",
+  "name": "Shimmer",
+  "description": "Native Radiance RGBE menu panoramas with floating-point GPU textures and SDR tone mapping.",
+  "environment": "client",
+  "entrypoints": {
+    "modmenu": ["org.kkaemok.shimmer.compat.ShimmerModMenu"]
+  },
+  "suggests": {
+    "modmenu": ">=21.0.0"
+  },
+  "mixins": ["shimmer.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "fabric-resource-loader-v1": ">=3.1.0",
+    "minecraft": "26.3",
+    "java": ">=25"
+  }
+}

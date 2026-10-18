@@ -1,0 +1,22 @@
+{
+  "shimmer.config.title": "Shimmer 설정",
+  "shimmer.config.enabled": "HDR 파노라마",
+  "shimmer.config.exposure": "노출 (EV)",
+  "shimmer.config.exposure.tooltip": "수동 노출: −20~+20 EV. +1은 밝기를 두 배로, −1은 절반으로 조절합니다.",
+  "shimmer.config.exposure.decrease": "노출을 0.5 EV 낮추기",
+  "shimmer.config.exposure.increase": "노출을 0.5 EV 높이기",
+  "shimmer.config.toneMapping": "톤 매핑",
+  "shimmer.config.curve.ACES": "ACES",
+  "shimmer.config.curve.REINHARD": "Reinhard",
+  "shimmer.config.overlay": "기본 파노라마 오버레이",
+  "shimmer.config.overlay.tooltip": "기본 파노라마 오버레이를 유지합니다. 메뉴 흐림 효과는 마인크래프트 설정에서 조절합니다.",
+  "shimmer.config.colorSpace": "태그 없는 이미지 색 공간",
+  "shimmer.config.colorSpace.LINEAR_SRGB": "선형 sRGB",
+  "shimmer.config.colorSpace.RADIANCE": "Radiance",
+  "shimmer.config.colorSpace.tooltip": "PRIMARIES가 없는 HDR 파일에 적용합니다. 태그가 있는 파일은 자체 색 원색을 사용합니다.",
+  "shimmer.config.reset": "기본값 복원",
+  "shimmer.config.save": "저장 및 적용",
+  "shimmer.config.applyHint": "저장하면 리소스를 다시 불러와 적용합니다.",
+  "shimmer.config.invalidExposure": "−20~+20 EV 범위의 유한한 노출값을 입력하세요.",
+  "shimmer.config.saveError": "설정을 저장하지 못했습니다. 게임 로그를 확인하세요."
+}

@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "org.kkaemok.shimmer.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["MinecraftMixin", "CubeMapMixin", "PanoramaMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

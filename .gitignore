@@ -1,0 +1,15 @@
+.gradle/
+build/
+run/
+logs/
+.idea/
+.vscode/
+*.iml
+*.log
+hs_err_pid*
+
+# Personal resource packs extracted from the local Bedrock installation
+/local-packs/
+
+# Local development records
+/docs/
